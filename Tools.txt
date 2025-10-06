@@ -1,1 +1,45 @@
+Data & AI Consulting:
+1. QuantumBlack AI by McKinsey
+2. Ritrex
+3. MERU
+4. BCGX
+5. DEEPER INSIGHTS
+6. BIG TIME DATA
+7. Deloitte AI Institute
+8. data root labs
+9. Data Captains
+10. ON THE MARK DATA
+11. IBM AI Consulting
+12. InData Labs
+13. 4MILE
+14. THIRDEYE
+15. ResultBI
+16. Cambridge Consultants
+17. Azati
+18. Analytics8
+19. LeewayHertz
+20. phData
+21. slalom
+22. addepto
+23. 3pillar
+24. kubrick
+25. UPRIGHT Analytics
+26. Seattle data out
+27. Brooklyn Data Co.
+28. Ternary
+29. Tribe AI
+30. LEIT Data
+31. Bytecode IO
+32. FluentFactors
+33. Deepsk data
+34. EY
+35. ZS 
+26. Captech
 
+
+Data Sources & APIs:
+1. Data Marketplaces & Discovery
+2. Financial & Market Data
+3. AIR/ SPACE/ SEA
+4. People / Entities
+5. Location Intelligence
